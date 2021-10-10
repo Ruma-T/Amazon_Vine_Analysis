@@ -8,32 +8,33 @@ Then chose a dataset from the Amazon Review datasets , and extracted the dataset
 I have used Google colab,PGAdmin,Aws for this challenge.
 
 ### Results:
+CUSTOMERS_TABLE
+
 
 ![png_chmd167](https://github.com/Ruma-T/Amazon_Vine_Analysis/blob/main/resources/chmd16p7.PNG)
 
 
 
 
- ![png_chmod162](https://github.com/Ruma-T/Amazon_Vine_Analysis/blob/main/resources/chmod16p1.PNG)
+
  
  
+PRODUCTS_TABLE
 
 ![png_chmod16p2](https://github.com/Ruma-T/Amazon_Vine_Analysis/blob/main/resources/chmod16p2.PNG)
 
 
 
+
+REVIEW_ID_TABLE
+
 ![png_chmod16p4](https://github.com/Ruma-T/Amazon_Vine_Analysis/blob/main/resources/chmod16p4.PNG)
 
 
 
-![png_chmod16p7](https://github.com/Ruma-T/Amazon_Vine_Analysis/blob/main/resources/chmod16p7.PNG)
 
 
-
-
-![png_chmod16p7](https://github.com/Ruma-T/Amazon_Vine_Analysis/blob/main/resources/chmod16p3.PNG)
-
-
+VINE_ANALYSIS_RESULTS
 
 ![png_ch16p1](https://github.com/Ruma-T/Amazon_Vine_Analysis/blob/main/resources/ch16p1.PNG)
 
@@ -77,12 +78,12 @@ I have used Google colab,PGAdmin,Aws for this challenge.
 
 ### Summary:
 ### Total Vine reviews :463  
-***non-Vine reviews were there:25094
+### non-Vine reviews were there:25094
 
-***Vine reviews were 5 stars:202
-***non-Vine reviews were 5 stars:12033
-*** percentage of Vine reviews were 5 stars :44%
-*** percentage of non-Vine reviews were 5 stars: 48%
+### Vine reviews were 5 stars:202
+### non-Vine reviews were 5 stars:12033
+### percentage of Vine reviews were 5 stars :44%
+### percentage of non-Vine reviews were 5 stars: 48%
 So, the percentage of vine paid and nonvine unpaid members five star review shows that it is not biased. The five star review percentage is close.
 
 We can also check how low reviews are given by paid and unpaid vine members.
